@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ApetweBc
-- These days, all what I do most are Application Administrator, developer and solution architecting 
-- 👀 I’m interested in Javascript, React, React Native, C#, C++, PHP, Laravel and WordPress
+- These days, all that I do most is Application Administration, Web & Application development and solution architecting 
+- 👀 I’m interested in JavaScript, React, React Native, C#, C++, PHP, Laravel and WordPress
 - 💞️ I’m looking to collaborate on any project listed in my bio
 - 📫 How to reach me on Twitter @Al_CobbyCobb
