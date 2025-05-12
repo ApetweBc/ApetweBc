@@ -3,5 +3,5 @@
 -  I’m interested in JavaScript, React, React Native, C#, C++, PHP, Laravel, WordPress and AWS 
 -  I’m looking to collaborate on any project listed in my bio
 -  Graduation projects (https://www.francisantobre.com/)
--  Agency Works - https://cobbycobb.ca/digital/
--  Startups - https://blackyyc.ca/
+-  Client Projects - https://cobbycobb.ca/digital/
+-  Founder - https://blackyyc.ca/
