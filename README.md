@@ -1,5 +1,5 @@
 -  Hi, I’m @ApetweBc
--  These days, all that I do most is Application Administration, Web & Application development and solution architecting 
+-  These days, all that I do most is Application Development, Web & Application development and solution architecting 
 -  I’m interested in JavaScript, React, React Native, C#, C++, PHP, Laravel, WordPress and AWS 
 -  I’m looking to collaborate on any project listed in my bio
 -  Graduation projects (https://www.francisantobre.com/)
